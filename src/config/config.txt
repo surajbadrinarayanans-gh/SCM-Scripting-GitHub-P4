@@ -3,3 +3,4 @@ region=us-east-1
 
 log_level=INFO
 config_version=1
+critical_patch=true
