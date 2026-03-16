@@ -2,9 +2,19 @@
 
 ---
 
+#### Project Introduction:
 
+In this project I implemented a complete Git-based development workflow to simulate how collaborative software teams manage code in real-world environments.I structured the repository to follow an industry-style branching strategy with main, dev, feature branches, and hotfix branches. This allowed me to experience how development, testing, and production code are managed separately while maintaining stability in the production branch.
+
+I simulated multiple development scenarios such as working on parallel feature branches, merging changes into a shared development branch, and resolving merge conflicts when different branches modified the same files. I also practiced selective commit transfer using git cherry-pick, which is commonly used in production environments to apply specific fixes without merging entire branches.
+
+To complete the workflow, I implemented a production hotfix scenario where a critical bug fix was applied through a dedicated hotfix branch and then synchronized across both the production and development branches. This project helped me build a deeper understanding of how Git is used in real DevOps and software development workflows.
+
+#### Final Commit History Workflow:
 
 ![1773651537299](image/README/1773651537299.png)
+
+---
 
 #### Step 1 - Creating Project Folder Structure:
 
