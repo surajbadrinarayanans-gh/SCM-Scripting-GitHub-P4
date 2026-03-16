@@ -1,2 +1,3 @@
-Main script enhanced for pipeline execution
-version=2
+Application entry script placeholder
+Main pipeline execution enabled
+version=2git add src/main.txt
