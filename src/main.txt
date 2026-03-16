@@ -1,1 +1,2 @@
-Application entry script
+Main script enhanced for pipeline execution
+version=2
