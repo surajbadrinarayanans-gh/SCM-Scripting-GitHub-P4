@@ -1,2 +1,3 @@
 Application entry script placeholder
-Conflict demo change B
+Main script enhanced for CI pipeline
+pipeline_version=3
